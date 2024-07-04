@@ -1,0 +1,59 @@
+body{
+    background-color: #fff999;
+    text-align: center;
+    /* imagem de fundo */
+    background-image: url(abacates.png);
+}
+
+.ingredientes{
+    list-style-type: disc;
+    /* altura */
+    height: 100%;
+    /* largura */
+    width: 20%;
+    /* alinhamento do texto */
+    text-align: justify;
+   
+    /* alinhando itens no centro */
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    display: block;
+
+    margin-top: 3%;
+    border: solid 1px;
+    padding: 2%;
+    border-radius: 10%;
+    background-color: #7ED957;
+}
+
+.modoDePreparo{
+    list-style-type: disc;
+    /* altura */
+    height: 100%;
+    /* largura */
+    width: 20%;
+    /* alinhamento do texto */
+    text-align: justify;
+
+    /* alinhando itens no centro */
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    display: block;
+
+    margin-top: 3%;
+    border: solid 1px;
+    padding: 2%;
+    border-radius: 10%;
+    background-color: #7ED957;
+}
+
+.imagemGuacamole{
+    /* tamanho da imagem */
+    width: 320px;
+    height: 205px;
+
+    margin-top: 3%;
+    border: solid 1px;
+}
